@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+pdfplumber
+pytesseract
+Pillow
+python-docx
+transformers
+torch
+openpyxl
