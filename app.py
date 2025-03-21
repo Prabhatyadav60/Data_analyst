@@ -9,6 +9,9 @@ from PIL import Image
 import docx
 from transformers import pipeline
 import torch
+import pytesseract
+pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
+
 
 @st.cache_resource(show_spinner=True)
 def load_qa_model():
