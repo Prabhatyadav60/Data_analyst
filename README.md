@@ -27,7 +27,7 @@ A **Streamlit-powered AI data analyst** that processes various document types, e
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/Digital-Analyst-AI.git
+git clone https://github.com/Prabhatyadav60/Digital-Analyst-AI.git
 cd Digital-Analyst-AI
 ```
 
