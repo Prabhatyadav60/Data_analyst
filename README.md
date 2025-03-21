@@ -6,7 +6,7 @@ A **Streamlit-powered AI data analyst** that processes various document types, e
 
 ## 🚀 Features
 
-- 📄 **Supports multiple file formats**: `.txt`, `.docx`, `.csv`, `.xlsx`, `.pdf`, `.png`, `.jpg`
+- 📄 **Supports multiple file formats**: `.txt`, `.docx`, `.csv`, `.xlsx`, `.pdf`
 - 🤖 **AI-powered Question Answering** using **deepset/roberta-base-squad2**
 - 📊 **Interactive Data Visualizations** (Bar Charts, Line Charts, Scatter Plots)
 - 🏆 **Text-based Analysis** (Word Frequency, Full-text Extraction)
