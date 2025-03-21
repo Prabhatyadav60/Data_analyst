@@ -10,4 +10,3 @@ python-docx
 transformers
 torch
 openpyxl
-tesseract-ocr
